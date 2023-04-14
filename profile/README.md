@@ -1,4 +1,4 @@
-# Lund University Humanities Laboratory
+# Lund University Humanities Lab
 
 <p align="center">
   <a href="https://www.humlab.lu.se">
